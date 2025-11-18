@@ -1,0 +1,32 @@
+[
+    {
+        "id": "davinci",
+        "title": "DaVinci Resolve",
+        "image": "images/DaVinci_Resolve_Studio.png",
+        "description": "Professional video editing & color grading software used in film production."
+    },
+    {
+        "id": "premiere",
+        "title": "Adobe Premiere Pro",
+        "image": "images/Adobe_Premiere_Pro_CC_icon.svg.png",
+        "description": "Industry-standard Adobe software for video editing and content production."
+    },
+    {
+        "id": "aftereffects",
+        "title": "After Effects",
+        "image": "images/Adobe_After_Effects_CC_icon.svg.png",
+        "description": "Powerful tool for motion graphics, animations, and VFX."
+    },
+    {
+        "id": "html",
+        "title": "HTML",
+        "image": "images/html_logo.png",
+        "description": "The standard language for structuring content on the web."
+    },
+    {
+        "id": "css",
+        "title": "CSS",
+        "image": "images/css_logo.png",
+        "description": "Used for styling and designing responsive webpages."
+    }
+]
